@@ -1,4 +1,4 @@
-# Spam_Or_Non-Spam_Email_Classification_Analysis
+# Spam_or_Non-Spam_Email_Classification_Analysis
 ## Introduction
 ### 1.1. Context
 With the proliferation of email communication, spam emails have become a significant problem, causing inconvenience and potential security risks for users. Efficiently filtering out spam emails is crucial for maintaining the integrity of email communication systems.
